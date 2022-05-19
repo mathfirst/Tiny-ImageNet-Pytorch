@@ -1,7 +1,7 @@
 # Tiny-ImageNet-Pytorch
 ## Formatting Tiny-ImageNet for Pytorch
 
-First, you need to unzip the .zip file. Then you can put this .py file under the folder of ./tiny-imagenet-200/val/, and run the command: 
+Firstly, you need to unzip the .zip file. Then, you can put this .py file under the folder of ./tiny-imagenet-200/val/, and run the command: 
 
 `python3 formatting_TinyImageNet.py`
 
